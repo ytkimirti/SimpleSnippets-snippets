@@ -1,5 +1,4 @@
-int main(void)
+int	main(void)
 {
-	${0:/* body */}
-	return 0;
+	${0://code}
 }

@@ -1,3 +1,4 @@
-else if (${1:/* condition */}) {
+else if (${1:/* condition */})
+{
 	${0:/* expression */}
 }

@@ -1,3 +1,4 @@
-struct ${1:Name} {
+struct ${1:Name}
+{
 	${0:/* fields */}
 };

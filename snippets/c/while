@@ -1,3 +1,4 @@
-while (${1:true}) {
-	${0:/* expression */}
+while (${1:true})
+{
+	${0://Code}
 }
