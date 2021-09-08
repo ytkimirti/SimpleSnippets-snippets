@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <unistd.h>
+#include <string.h>
+
+int	main(void)
+{
+	char *str = "Hello";
+
+	${0://code}
+
+	for (i = 0; i < 10; i++)
+	{
+		
+	}
+}
