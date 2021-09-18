@@ -1,0 +1,6 @@
+#ifndef ${1:NAME}
+# define $1 
+
+${0:other stuff}
+
+#endif
