@@ -1,0 +1,2 @@
+printf("%s", "\e[0m"); /* RESET */
+

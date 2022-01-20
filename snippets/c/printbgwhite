@@ -1,0 +1,1 @@
+printf("%s", "\e[47m]"); /* BG WHITE */
